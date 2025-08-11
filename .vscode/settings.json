@@ -1,0 +1,14 @@
+{
+  "markdown-pdf.options": {
+    "displayHeaderFooter": true,
+    "headerTemplate": "<div style='font-size:16px; font-weight:bold; color:red; margin-left:10px;'>TEST HEADER</div>",
+    "footerTemplate": "<div style='font-size:16px; color:blue; margin-right:10px; text-align:right;'>Page <span class='pageNumber'></span> of <span class='totalPages'></span> — TEST FOOTER</div>",
+
+    "margin": {
+      "top": "50px",
+      "bottom": "50px",
+      "left": "30px",
+      "right": "30px"
+    }
+  }
+}
